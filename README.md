@@ -7,7 +7,7 @@
   - [Bodyfat Calculator - Regression Analysis](https://github.com/BanjoBillyJr/ISYE-7406---Project-Two)
   - [Handwritten Number - Predictive Analysis](https://github.com/BanjoBillyJr/ISYE-7406-Project-one)
 - <b>Data Analytics Business (ISYE 6203) - Group Project</b>
-  - [High or Low MPG - Predictive Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Medical Insurance Modeling: Predicting for Health Insurance Copayment](https://github.gatech.edu/MGT-6203-Fall-2023-Canvas/Team-99)
 
 
 <h2>👨‍💻 Classes:</h2>
