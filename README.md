@@ -1,5 +1,3 @@
-![image](https://github.com/BanjoBillyJr/BanjoBillyJr/assets/141773132/7cad0723-6682-4023-b4e1-ea5a33102b36)
-
 
 <h1>Hi, I'm Elliott Sperin! <br/>Computational Data Analytics</h1><h3>Master's of Science - Analytics student at The Georgia Institute of Technology</h3>
 
