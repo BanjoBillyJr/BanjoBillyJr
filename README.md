@@ -3,9 +3,9 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Mining & Statistical Learning (ISYE 7406) - Class Projects</b>
-  - [High or Low MPG - Predictive Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Bodyfat Calculator - Regression Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Handwritten Number - Predictive Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [High or Low MPG - Predictive Analysis](https://github.com/BanjoBillyJr/ISYE-7406---Project-Three)
+  - [Bodyfat Calculator - Regression Analysis](https://github.com/BanjoBillyJr/ISYE-7406---Project-Two)
+  - [Handwritten Number - Predictive Analysis](https://github.com/BanjoBillyJr/ISYE-7406-Project-one)
 - <b>Data Analytics Business (ISYE 6203) - Group Project</b>
   - [High or Low MPG - Predictive Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
 
