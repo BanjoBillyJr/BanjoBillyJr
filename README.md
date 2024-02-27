@@ -17,7 +17,7 @@
   - [Deterministic Optimization - ISYE 6999](https://docs.google.com/document/d/1fBXjPSckjOwpddfl4BGtoAN_nccoZ9Ai/edit)
   - [Data Mining & Stastical Learning - ISYE 7406](https://docs.google.com/document/d/1qhIulnA5fzmcTxIEwE-xE6aboM9yk-yO/edit?rtpof=true&sd=true)
 - <b>✨ Previous Coursework</b>
-  - [Introduction to Analytics Modeling - ISYE 6999](https://docs.google.com/document/d/1oUXgkfr2E28p4suNCGsb7iCKMcuBtot2/edit?rtpof=true&sd=true)
+  - [Introduction to Analytics Modeling - ISYE 6501](https://docs.google.com/document/d/1oUXgkfr2E28p4suNCGsb7iCKMcuBtot2/edit?rtpof=true&sd=true)
   - [Data Analytics Business - ISYE 6203](https://docs.google.com/document/d/1ELwMqV58Rr62lFzFxnbECAnoBNqPXW8u/edit)
   - [Computing for Data Analytics - CSE 6040](https://hackmd.io/@richie/BkpC2BThh)
 <h2> 🤳 Connect with me:</h2>
