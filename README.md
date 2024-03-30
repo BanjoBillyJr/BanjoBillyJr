@@ -4,9 +4,12 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Mining & Statistical Learning (ISYE 7406) - Class Projects</b>
+  - [Air-BnB Pricing in New York City Analysis - Predictive Analysis](https://github.com/BanjoBillyJr/ISYE-7406-Project-Five/tree/main)
   - [High or Low MPG - Predictive Analysis](https://github.com/BanjoBillyJr/ISYE-7406---Project-Three)
   - [Bodyfat Calculator - Regression Analysis](https://github.com/BanjoBillyJr/ISYE-7406---Project-Two)
   - [Handwritten Number - Predictive Analysis](https://github.com/BanjoBillyJr/ISYE-7406-Project-one)
+  - 
+ 
 - <b>Data Analytics Business (ISYE 6203) - Group Project</b>
   - [Medical Insurance Modeling: Predicting for Health Insurance Copayment](https://github.com/BanjoBillyJr/Group/tree/main)
 
